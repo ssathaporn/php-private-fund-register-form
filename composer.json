@@ -1,0 +1,14 @@
+{
+    "name": "dell-laptop/fund_register",
+    "authors": [
+        {
+            "name": "Sathaporn Samran",
+            "email": "bbird_ss@outlook.com"
+        }
+    ],
+    "require": {
+        "joshcam/mysqli-database-class": "^2.9",
+        "google/cloud-storage": "^1.5",
+        "league/csv": "8.0"
+    }
+}

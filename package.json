@@ -1,0 +1,15 @@
+{
+  "name": "fund_register",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vee-validate": "^2.1.0-beta.2",
+    "vue-inputmask": "^0.2.1"
+  }
+}

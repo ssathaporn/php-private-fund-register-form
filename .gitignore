@@ -1,0 +1,4 @@
+/bower_components/*
+/plugins/*
+*.xlsx
+*.csv
